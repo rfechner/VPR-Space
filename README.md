@@ -7,7 +7,11 @@ While state-of-the-art VPR and SLAM approaches show impressive results in urban 
 This repository is the data release of VPR-Space, a VPR benchmark evaluating VPR capabilities on extraterrestrial surfaces.
 
 ## Usage
-Please see the github releases of this repository.
+Please see the github releases section of this repository. Download all files. To stitch the data back together, please navigate into the unpacked folder and:
+
+```bash
+cat vpr-space.tar.* | tar xvf -
+```
 
 ## Overview
 ![vpr-space overview](./resources/bench_overview.png)
