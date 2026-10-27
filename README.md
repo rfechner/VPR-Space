@@ -22,7 +22,15 @@ Please cite VPR-Space and the works of previous authors we used to construct the
 
 ```tex
 % VPR-Space
-% TODO
+@misc{fechner2026vprspacebenchmarkvisualplace,
+      title={VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains}, 
+      author={Richard Fechner and Peer Neubert},
+      year={2026},
+      eprint={2610.35642},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2610.35642}, 
+}
 
 % MADMAX
 @article{meyer2021madmax,
