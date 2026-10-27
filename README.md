@@ -1,6 +1,6 @@
 # VPR-Space
-
-[![GitHub release](https://img.shields.io/github/v/release/rfechner/VPR-Space?include_prereleases)](https://github.com/rfechner/VPR-Space/releases)
+- Release: [![GitHub release](https://img.shields.io/github/v/release/rfechner/VPR-Space?include_prereleases)](https://github.com/rfechner/VPR-Space/releases)
+- Paper: [arXiv](https://arxiv.org/abs/2610.35642)
 
 ## About
 Visual Place Recognition (VPR) is an important means for loop closure detection in visual Simultaneous Localization and Mapping (SLAM).
@@ -8,7 +8,7 @@ While state-of-the-art VPR and SLAM approaches show impressive results in urban 
 
 This repository is the data release of VPR-Space, a VPR benchmark evaluating VPR capabilities on extraterrestrial surfaces.
 
-## Usage
+## Getting started
 Please see the github releases section of this repository. Download all files. To stitch the data back together, please navigate into the unpacked folder and:
 
 ```bash
