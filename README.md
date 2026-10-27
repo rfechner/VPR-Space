@@ -1,5 +1,7 @@
 # VPR-Space
 
+[![GitHub release](https://img.shields.io/github/v/release/rfechner/VPR-Space?include_prereleases)](https://github.com/rfechner/VPR-Space/releases)
+
 ## About
 Visual Place Recognition (VPR) is an important means for loop closure detection in visual Simultaneous Localization and Mapping (SLAM).
 While state-of-the-art VPR and SLAM approaches show impressive results in urban and feature-rich natural environments, the vast, repetitive, and feature-poor environments of extraterrestrial surfaces like on the Moon or Mars, together with their challenging illumination conditions, pose severe challenges for  existing approaches. 
